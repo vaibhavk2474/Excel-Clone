@@ -227,7 +227,8 @@ body {
 
 /* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
 
-@media (max-width: 320px) {
+/* max-width 450px se km hote hi ye below style pply honi chahiye */
+@media (max-width: 450px) {
   .menu-container {
     display: flex;
     background-color: green;
